@@ -8,7 +8,7 @@
 		<version>3.2.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jenkins</groupId>
+	<groupId>com.jenkins_project`</groupId>
 	<artifactId>springboot-application-Jen</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-application-Jen</name>
